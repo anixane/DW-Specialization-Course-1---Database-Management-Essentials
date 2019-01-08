@@ -1,5 +1,5 @@
 # Datawarehouse and Data Integration
-![Alt text](/Certificate_Coursera ECBQRR27KASD.pdf "Optional Title")
+![Alt text](/certificate_course1.png "Optional Title")
 
 ** For Pentaho **
 Download 
